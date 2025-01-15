@@ -858,7 +858,7 @@ p {
 .about_image {
   position: relative; }
   .about_image img {
-    width: 85%; }
+    width: 75%; }
     @media only screen and (min-width:200px) and (max-width: 767px) {
       .about_image img {
         width: 0%; } }
