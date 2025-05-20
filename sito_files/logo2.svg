@@ -9,7 +9,7 @@
       font-family: 'Russo One', sans-serif;
     }
   </style>
-  <text x="5" y="45" font-size="56" font-weight="700" fill="#293651">
+  <text x="5" y="45" font-size="50" font-weight="700" fill="#293651">
     AI<tspan fill="#20c997">wesome</tspan>
   </text>
 </svg>
