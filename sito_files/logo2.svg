@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 220 60">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 250 60">
   <style>
     @font-face {
       font-family: 'Russo One';
@@ -9,7 +9,7 @@
       font-family: 'Russo One', sans-serif;
     }
   </style>
-  <text x=".291" y="40" font-size="40" font-weight="700" fill="#293651">
+  <text x=".291" y="40" font-size="46" font-weight="700" fill="#293651">
     AI<tspan fill="#20c997">wesome</tspan>
   </text>
 </svg>
